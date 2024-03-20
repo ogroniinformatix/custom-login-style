@@ -22,11 +22,11 @@ General Public License, Version 3 (LGPL V3).
 
 Credits
 -------
-Developer: (V17) Ogroni Informatix Limited, Contact: admin@ogroni.com
+Developer: (V17) Ogroni Informatix Limited, Contact: info@ogroni.com
 
 Contacts
 --------
-* Mail Contact : admin@ogroni.com
+* Mail Contact : info@ogroni.com
 * Website : https://ogroni.com
 
 Maintainer
